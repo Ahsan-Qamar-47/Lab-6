@@ -14,7 +14,9 @@ namespace GroceryListApp
                 "Eggs",
                 "Butter",
                 "Cheese",
+                "Orange"
                 "Banana"
+
             };
 
             Console.WriteLine("Grocery List:");
